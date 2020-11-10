@@ -1,1 +1,10 @@
+Cognos Connection (10.2.2 Version) / Welcome Page (11 Version):
+
+a.       Copy any two reports from Team content > Sample > Reports > Standard reports Folder.
+
+b.       Rename the report
+
+c.       Schedule the report to run in Secure PDF format for every 2 hours from 8 AM to 10 PM on 2-OCT-2020.
+
+d.       Create a New Data Server Connection and test , save the connection.
 
